@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning _Statistics & Probability, and Data Science in Python_
 - 💫 You can find my CV at: 
-- 📫 If you want to chat: <a href="https://www.linkedin.com/in/joanadamatta02/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/></a>
+- 📫 If you want to chat: <a href="https://www.linkedin.com/in/joanadamatta02/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="25" height="25"/></a>
 
 ### My GitHub Stats
 
