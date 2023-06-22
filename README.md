@@ -2,8 +2,8 @@
 ### I'm Joana da Matta, a Computer Science student from Brazil
 
 - 🌱 I'm currently learning _Statistics & Probability, and Data Science in Python_
-- 💫 You can find my CV at: 
-- 📫 If you want to chat: <a href="https://www.linkedin.com/in/joanadamatta02/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="25" height="25"/></a>
+- 💫 You can find my resume at 
+- 📫 If you want to chat, you can find me on LinkedIn:  <a href="https://www.linkedin.com/in/joanadamatta02/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="25" height="25"/></a>
 
 ### My GitHub Stats
 
