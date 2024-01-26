@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Joana da Matta, a Computer Science student from Brazil
+### I'm Joana da Matta, a Computer Science student currently at Université de Montréal
 
 - 🌱 I'm currently studying _Statistics & Probability_, and the _O'Reilly Data Science from Scratch_ book.
 - 💫 You can find my resume <a href="https://jodamatta.notion.site/Joana-da-Matta-3dfc99eeda874db9b1e20edbd539e3dd?pvs=4">here</a>.
